@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 摩訶僧祇比丘尼戒本
+#+DATE: 2015-08-30 20:39:42.501821
+#+PROPERTY: JUAN 0
